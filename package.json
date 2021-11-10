@@ -2,6 +2,7 @@
   "name": "lovecalc",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://skand17.github.io/lovecalculator/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
@@ -17,6 +18,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy" : "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

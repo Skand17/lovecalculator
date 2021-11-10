@@ -13,6 +13,30 @@
   }
 }
 
+.App > h2 {
+  font-size: 25px;
+  font-weight: 600;
+  padding-bottom: 50px;
+}
+
+.your-score h4 {
+  font-size: 26px;
+  padding: 20px 0 0 0;
+  text-transform: uppercase;
+  letter-spacing: 0.100em;
+  color: red;
+}
+
+.App {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 45px;
+}
+
+.form-group{
+  text-align: left;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
